@@ -11,6 +11,8 @@ USB-C power
 3d printed construction
 Brass pcb pillar stand offs
 
+The keymap for this pad is VERY bare bones.  I did not fill it out and add many layers or functions for my own uses.  I highly recommend you dive into the keymap file and fill it out more before flashing it to the board for more practical use.
+
 All files are included for reproducing or editing the design.
 
 For resources on hand wiring boards I highly recommend looking up @joe-scotto on youtube and github.  He creates excellent tutorials on creating hand wired boards.
