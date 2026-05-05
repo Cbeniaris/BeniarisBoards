@@ -1,6 +1,6 @@
 # beniaris46
 
-![beniaris46](beniaris46.JPEG)
+![beniaris46](beniaris46.jpg)
 
 Features:
 Ortholinear Design

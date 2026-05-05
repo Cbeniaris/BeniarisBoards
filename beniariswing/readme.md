@@ -1,6 +1,6 @@
 # beniariswing
 
-![beniariswing](beniariswing.JPEG)
+![beniariswing](beniariswing.jpg)
 
 Features/Hardware:
 Ortholiner split design
