@@ -1,0 +1,72 @@
+BeginElementMap v1
+46 PostfixCount 17
+Edge
+Face
+Vertex
+;:G;XTR;:Ha76:7,F
+;:M#425c;RFI;:Ha76:c,E
+;:M#425b;RFI;:Ha76:c,E
+;:M;RFI;:Ha76:7,F
+;:U;XTR;:Ha76:7,E
+;:M#4260;RFI;:Ha76:c,F
+;:M#425f;RFI;:Ha76:c,F
+;:U2;XTR;:Ha76:8,V
+;:U;XTR;:Ha76:7,V
+;:M#425e;RFI;:Ha76:c,E
+;:M#425d;RFI;:Ha76:c,E
+;:G;XTR;:Ha76:7,E
+;SKT;:Ha76,E
+;SKT;:Ha76,V
+
+MapCount 1
+
+ElementMap 1 46 3
+
+Edge
+
+ChildCount 0
+
+NameCount 13
+0
+$#4255.f 0
+$#4256.f 0
+;g19.10 0
+$#3e29:13.8.3e1e 0
+$#3e1e:17.6.425b 0
+;g22.10 0
+$#3e1e:14.5.425c 0
+$#4258.f 0
+$#4259.f 0
+$#3e29:16.8.3e1e 0
+$#3e35:17.e.3e1e.3e1e.3e29.3e29.425d 0
+$#3e35:14.d.3e1e.3e1e.3e29.3e29.425e 0
+
+Face
+
+ChildCount 0
+
+NameCount 7
+0
+$#3e1e:13.4 0
+$#3e27:13.7.3e1e 0
+$#3e1e:16.4 0
+$#3e38:13.7.3e1e.3e27 0
+$#3e29:17.a.3e1e.3e1e.425f 0
+$#3e29:14.9.3e1e.3e1e.4260 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 9
+0
+;g19v1.11 ;g20v1.11 0
+$#3e35:13.c.3e1e.3e29 0
+;g19v2.11 ;g24v1.11 0
+$#3e35:13.b.3e1e.3e29 0
+;g22v1.11 ;g23v2.11 0
+;g21v2.11 ;g22v2.11 0
+$#3e35:16.c.3e1e.3e29 0
+$#3e35:15.b.3e1e.3e29 0
+
+EndMap
