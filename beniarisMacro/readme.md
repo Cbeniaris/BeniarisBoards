@@ -1,6 +1,6 @@
 # beniarismacro
 
-![beniarismacro](beniarismarco.JPEG)
+![beniarismacro](beniarismacro.jpg)
 
 Features/Hardware:
 Arduino promicro usb-c
