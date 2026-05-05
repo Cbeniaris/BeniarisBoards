@@ -2,22 +2,19 @@
 
 ![beniaris46](beniaris46.jpg)
 
-Features:
-Ortholinear Design
-Split column stagger layout
-USB-C power
-3d printed construction
+Features:  
+Ortholinear Design  
+Split column stagger layout  
+USB-C power  
+3d printed construction   
 
-Hardware needed for this build:
-2x 3.5 mm ports
-2x arduino promicro usb-c
-1x 3.5 mm cable
-Brass pcb pillar stand offs
+Hardware needed for this build:  
+2x 3.5 mm ports  
+2x arduino promicro usb-c  
+1x 3.5 mm cable  
+Brass pcb pillar stand offs  
 
 All files are included for reproducing or editing the design.
-
-For resources on hand wiring boards I highly recommend looking up @joe-scotto on youtube and github.  He creates excellent tutorials on creating hand wired boards.
-
 
 * Keyboard Maintainer: [Constantine Beniaris](https://github.com/Cbeniaris)
 * Hardware Supported: ATMEGA32 (promicro)

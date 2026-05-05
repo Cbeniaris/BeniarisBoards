@@ -2,17 +2,14 @@
 
 ![beniariswing](beniariswing.jpg)
 
-Features/Hardware:
-Ortholiner split design
-20 degree split for ergonomics
-Arduinio promicro controller
-USB-C power
-3d printed construction
+Features/Hardware:  
+Ortholiner split design  
+20 degree split for ergonomics  
+Arduinio promicro controller  
+USB-C power  
+3d printed construction  
 
 All files are included for reproducing or editing the design.
-
-For resources on hand wiring boards I highly recommend looking up @joe-scotto on youtube and github.  He creates excellent tutorials on creating hand wired boards.
-
 
 * Keyboard Maintainer: [Constantine Beniaris](https://github.com/Cbeniaris)
 * Hardware Supported: RP2040
